@@ -1,4 +1,11 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
 <body>
         <h1 align="center">~ Welcome (づ｡◕‿‿◕｡)づ ~</h1>
         <br>
@@ -50,12 +57,11 @@
                     alt="">
             </p>
             <br>
-            <h2 align="center"> 📝 Contact me (>人<)𝓮 📝</h2> <h2 align="center">
+            <h2 align="center"> 📝 Contact me (>人<)𝓮 📝  </h2> 
                     <img src="https://i.pinimg.com/564x/5b/ee/52/5bee52fa1411082205d151a185650658.jpg " width="100px"
                         height="100px" alt="">
                     <img src="https://i.pinimg.com/564x/52/5d/31/525d31be112f02cbb8d0aefc6bde21cc.jpg" width="100px"
                         height="100px" alt="">
-            </h2>
             <br>
         </div>
      
@@ -68,3 +74,4 @@
         </div>
         
 </body>
+</html>
