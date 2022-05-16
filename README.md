@@ -9,7 +9,6 @@
   <br>
 </div>
  <br>
-<img src="https://i.imgur.com/jx17oHT.gif"/>
 <div>
 <h2 align="center"> 🦊About me (~˘▾˘)~ 🦊 </h2>
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
@@ -41,7 +40,7 @@
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
 </p>
 <br>
-<h2 align="center">           📝  Contact me (>人<)𝓮  📝</h2>
+<h2 align="center" width="373.5px" height="208.5px">           📝  Contact me (>人<)𝓮  📝</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
 <p align="center"></p>
