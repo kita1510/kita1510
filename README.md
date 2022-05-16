@@ -4,7 +4,7 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
   <a href="https://laby.net/@liebesschwur" >
-  <img https://i.pinimg.com/originals/f0/0a/c8/f00ac85ff2bbe23bf9d4033a1b49cd61.gif/>
+  <img https://i.pinimg.com/236x/df/c2/5d/dfc25d7b3d99c5414c390ecfdeca9e6d.jpg/>
   </a>
   <br>
 </div>
@@ -16,16 +16,16 @@
 <li>
  <b>Name:</b> <a href='https://laby.net/@liebesschwur' target=_blank>Luan Nguyen</a></li>
 <li>
-<b>Fursona:</b> Female Snow Fox
+<b>Fursona:</b> 11
 </li>
 <li>
-<b>Loves:</b> anime, osu, rythm games
+<b>Loves:</b> Football, Anime, Teacher Japanese
 </li>
 <li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
+<b>Gender:</b> Male 🏳️‍⚧️
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> Watch Anime, Web Development
 </li>
 <li>
 <b>Working @:</b> Intave Anticheat | snens.team
