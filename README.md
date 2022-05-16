@@ -1,13 +1,12 @@
 <body>
-<h1 align="center">~  WWelcome (づ｡◕‿‿◕｡)づ  ~</h1>
+<h1 align="center">~  Welcome (づ｡◕‿‿◕｡)づ  ~</h1>
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
   <a href="https://laby.net/@liebesschwur" >
-   <img src="https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
+  <img https://i.pinimg.com/originals/f0/0a/c8/f00ac85ff2bbe23bf9d4033a1b49cd61.gif/>
   </a>
   <br>
-  <p>𝑔𝒾𝓇𝒾 𝑔𝒾𝓇𝒾 𝑒𝓎𝑒 𝒾𝓀𝑒𝓃𝒶𝒾 𝒷𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒</p>
 </div>
  <br>
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
@@ -15,7 +14,7 @@
 <h2 align="center"> 🦊About me (~˘▾˘)~ 🦊 </h2>
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 <li>
- <b>Name:</b> <a href='https://laby.net/@liebesschwur' target=_blank>Emily</a></li>
+ <b>Name:</b> <a href='https://laby.net/@liebesschwur' target=_blank>Luan Nguyen</a></li>
 <li>
 <b>Fursona:</b> Female Snow Fox
 </li>
