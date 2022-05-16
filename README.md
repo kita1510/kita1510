@@ -28,41 +28,39 @@
                 <b>Hobbys:</b> Watch Anime, Web Development
             </li>
             <br>
-            <br>
-            <br>
         </div>
         <div>
-            <br>
+            <br><br>
             <p>
                 <img src="https://i.pinimg.com/originals/65/7b/af/657baf3bd6020949b82e89c0bb05e984.gif" width="300px" height="450px" align="right">
             </p>
-            <h2 align="center"> 📇 Knowledge ᕦ(ò_óˇ)ᕤ 📇 </h2>
-                
-        </div>
-        <div>
+                <h2 align="center"> 📇 Knowledge ᕦ(ò_óˇ)ᕤ 📇 </h2>
+        <br>
+         <div>
             <p align="center">
                 <img
                     src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" >
                 <img
                     src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" >
                     <br>
-<!--                 <img src="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"alt=""> -->
+                <img src="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"alt="">
             </p>
-            <br>
+                 <br>
             <h2 align="center"> 📝 Contact me (>人<)𝓮 📝  </h2> 
-                    <img src="https://i.pinimg.com/564x/5b/ee/52/5bee52fa1411082205d151a185650658.jpg " width="100px"
+                    <p align = 'center'>
+                    <img src="https://i.pinimg.com/236x/5b/ac/75/5bac7554c5c6ce538a7dcf00b7de88c4.jpg" width="100px"
                         height="100px" alt="">
                     <img src="https://i.pinimg.com/564x/52/5d/31/525d31be112f02cbb8d0aefc6bde21cc.jpg" width="100px"
                         height="100px" alt="">
+                            </p>
             <br>
-        </div>
-     
-        <div>
+                    <div>
             <h2 align="center">💖 Thanks for reading (ღ˘⌣˘ღ) 💖</h2>
             <div align="center">
-                <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+                <img src="https://i.pinimg.com/originals/2c/74/63/2c7463852a8ad9fee2f3d9a15a5c07ff.gif">
             </div>
             <hr>
+        </div> 
         </div>
         
 </body>
