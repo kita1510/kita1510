@@ -13,8 +13,7 @@
         <div>
             <h2 align="center"> 🦊About me (~˘▾˘)~ 🦊 </h2>
             <img src="https://i.pinimg.com/originals/14/0e/ff/140eff8ea73da27ee0fba0c1196ca27c.gif" width="300px"
-            
-                height="200px" align="right">
+height="200px" align="right">
             <li>
                 <b>Name:</b> <a href='#' target=_blank>Luan Nguyen</a></li>
             <li>
