@@ -55,6 +55,7 @@
                             </p>
             <br>
                     <div>
+                            <br><br>
             <h2 align="center">💖 Thanks for reading (ღ˘⌣˘ღ) 💖</h2>
             <div align="center">
                 <img src="https://i.pinimg.com/originals/2c/74/63/2c7463852a8ad9fee2f3d9a15a5c07ff.gif">
