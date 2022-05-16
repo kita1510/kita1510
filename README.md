@@ -28,7 +28,7 @@
                 <b>Hobbys:</b> Watch Anime, Web Development
             </li>
 
-            <br><br><br>
+            <br>
         </div>
         <div>
             <br>
