@@ -16,7 +16,7 @@
             <li>
                 <b>Name:</b> <a href='#' target=_blank>Luan Nguyen</a></li>
             <li>
-                <b>Fursona:</b> 11
+                <b>Age:</b> 20
             </li>
             <li>
                 <b>Loves:</b> Football, Anime, Teacher Japanese
