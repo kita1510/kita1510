@@ -1,5 +1,6 @@
+
 <body>
-<h1 align="center">~ Welcome (づ｡◕‿‿◕｡)づ ~</h1>
+        <h1 align="center">~ Welcome (づ｡◕‿‿◕｡)づ ~</h1>
         <br>
         <div align="center">
             <img src="https://i.pinimg.com/originals/1b/19/e8/1b19e81f39e005d18c0b48956bf76b92.gif" alt="">
@@ -14,7 +15,7 @@
             <img src="https://i.pinimg.com/originals/14/0e/ff/140eff8ea73da27ee0fba0c1196ca27c.gif" width="300px"
                 height="200px" align="right">
             <li>
-                <b>Name:</b> <a href='https://laby.net/@liebesschwur' target=_blank>Luan Nguyen</a></li>
+                <b>Name:</b> <a href='#' target=_blank>Luan Nguyen</a></li>
             <li>
                 <b>Fursona:</b> 11
             </li>
@@ -27,7 +28,8 @@
             <li>
                 <b>Hobbys:</b> Watch Anime, Web Development
             </li>
-
+            <br>
+            <br>
             <br>
         </div>
         <div>
@@ -56,10 +58,7 @@
             </h2>
             <br>
         </div>
-        <br>
-        <br>
-        <br>
-        <br>
+     
         <div>
             <h2 align="center">💖 Thanks for reading (ღ˘⌣˘ღ) 💖</h2>
             <div align="center">
@@ -67,4 +66,5 @@
             </div>
             <hr>
         </div>
+        
 </body>
