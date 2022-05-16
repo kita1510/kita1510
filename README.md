@@ -30,7 +30,7 @@
             <br>
         </div>
         <div>
-            <br><br>
+            <br><br><br><br>
             <p>
                 <img src="https://i.pinimg.com/originals/65/7b/af/657baf3bd6020949b82e89c0bb05e984.gif" width="300px" height="450px" align="right">
             </p>
