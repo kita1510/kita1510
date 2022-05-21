@@ -12,9 +12,13 @@
         <br>
         <div>
             <h2 align="center"> 🦊About me (~˘▾˘)~ 🦊 </h2>
-            <img src="https://i.pinimg.com/originals/14/0e/ff/140eff8ea73da27ee0fba0c1196ca27c.gif" width="300px" height="200px" align="right">
-            <li>
+                <p align = "right">
+            <img src="https://i.pinimg.com/originals/14/0e/ff/140eff8ea73da27ee0fba0c1196ca27c.gif" width="400px" height="280px" align="center">
+                        </p><br><br>
+                <ul align = "left" font-size ="40px">
+            <li> <h3>
                 <b>Name:</b> <a href='#' target=_blank>Luan Nguyen</a></li>
+                    </h3>
             <li>
                 <b>Age:</b> 20
             </li>
@@ -27,12 +31,13 @@
             <li>
                 <b>Hobbys:</b> Watch Anime, Web Development
             </li>
+                        </ul>
             <br>
         </div>
         <div>
-            <br><br><br><br>
-            <p>
-                <img src="https://i.pinimg.com/originals/65/7b/af/657baf3bd6020949b82e89c0bb05e984.gif" width="300px" height="450px" align="right">
+            <br><br>
+            <p align = "right">
+                <img src="https://i.pinimg.com/originals/8f/92/e5/8f92e5f32fb3b5539743271532ef800a.gif" width = "400px" align="right">
             </p>
                 <h2 align="center"> 📇 Knowledge ᕦ(ò_óˇ)ᕤ 📇 </h2>
         <br>
@@ -48,7 +53,7 @@
                  <br>
             <h2 align="center"> 📝 Contact me (>人<)𝓮 📝  </h2> 
                     <p align = 'center'>
-                    <img src="https://i.pinimg.com/236x/5b/ac/75/5bac7554c5c6ce538a7dcf00b7de88c4.jpg" width="100px"
+                    <img src="https://i.pinimg.com/236x/5b/ee/52/5bee52fa1411082205d151a185650658.jpg" width="100px"
                         height="100px" alt="">
                     <img src="https://i.pinimg.com/564x/52/5d/31/525d31be112f02cbb8d0aefc6bde21cc.jpg" width="100px"
                         height="100px" alt="">
