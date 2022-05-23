@@ -13,7 +13,7 @@
         <div>
             <h2 align="center"> 🦊About me (~˘▾˘)~ 🦊 </h2>
                 <p align = "right">
-            <img src="https://i.pinimg.com/originals/14/0e/ff/140eff8ea73da27ee0fba0c1196ca27c.gif" width="500px" height="280px" align="center">
+            <img src="https://i.pinimg.com/originals/14/0e/ff/140eff8ea73da27ee0fba0c1196ca27c.gif" width="500px" height="300px" align="center">
                         </p><br><br>
                 <ul align = "left" font-size ="40px">
             <li> <h3>
