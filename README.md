@@ -29,7 +29,7 @@
                 <b>Gender:</b> Male 🏳️‍⚧️
             </li>
             <li>
-                <b>Hobbys:</b> Watch Anime, Web Development
+                <b>Hobbys:</b> Watch Anime, Web Development, Playing Football
             </li>
                         </ul>
             <br>
