@@ -37,7 +37,7 @@
         <div>
             <br><br>
             <p align = "right">
-                <img src="https://i.pinimg.com/originals/8f/92/e5/8f92e5f32fb3b5539743271532ef800a.gif" width = "400px" align="right">
+                <img src="[https://i.pinimg.com/originals/8f/92/e5/8f92e5f32fb3b5539743271532ef800a.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmVnieDEsoBF90PSEDkNM-PLu48nighySCPA&usqp=CAU)" width = "400px" align="right">
             </p>
                 <h2 align="center"> 📇 Knowledge ᕦ(ò_óˇ)ᕤ 📇 </h2>
         <br>
