@@ -12,9 +12,7 @@
         <br>
         <div>
             <h2 align="center"> 🦊About me (~˘▾˘)~ 🦊 </h2>
-                <p align = "right">
-            <img src="https://i.pinimg.com/originals/14/0e/ff/140eff8ea73da27ee0fba0c1196ca27c.gif" width="500px" height="300px" align="center">
-                        </p><br><br>
+               <br><br>
                 <ul align = "left" font-size ="40px">
             <li> <h3>
                 <b>Name:</b> <a href='#' target=_blank>Luan Nguyen</a></li>
@@ -23,15 +21,18 @@
                 <b>Age:</b> 20
             </li>
             <li>
-                <b>Loves:</b> Football, Anime, Teacher Japanese
+                <b>Loves:</b> Football, Anime
             </li>
             <li>
                 <b>Gender:</b> Male 🏳️‍⚧️
             </li>
             <li>
-                <b>Hobbys:</b> Watch Anime, Web Development, Playing Football
+                <b>Hobbys:</b> Watching Anime, Web Development, Playing Football
             </li>
-                        </ul>
+             </ul>
+         <p align = "right">
+            <img src="https://i.pinimg.com/originals/14/0e/ff/140eff8ea73da27ee0fba0c1196ca27c.gif" width="300px" height="200px" align="center">
+                        </p>
             <br>
         </div>
         <div>
