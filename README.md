@@ -3,7 +3,6 @@
         <h1 align="center">~ Welcome (づ｡◕‿‿◕｡)づ ~</h1>
         <br>
         <div align="center">
-            <img src="https://i.pinimg.com/originals/1b/19/e8/1b19e81f39e005d18c0b48956bf76b92.gif" alt="">
             <!-- <a href="https://discord.com/users/202740603790819328" > -->
             <a href="https://laby.net/@liebesschwur">
             </a>
@@ -15,7 +14,7 @@
                <br><br>
                 <ul align = "left" font-size ="40px">
             <li> <h3>
-                <b>Name:</b> <a href='#' target=_blank>Luan Nguyen</a></li>
+                <b>Name:</b> <a href='#' target=_blank>Nguyen Thanh Luan</a></li>
                     </h3>
             <li>
                 <b>Age:</b> 20
@@ -30,14 +29,11 @@
                 <b>Hobbys:</b> Watching Anime, Web Development, Playing Football
             </li>
              </ul>
-         <p align = "right">
-            <img src="https://i.pinimg.com/originals/14/0e/ff/140eff8ea73da27ee0fba0c1196ca27c.gif" width="300px" height="200px" align="center">
-                        </p>
-            <br>
+         <p align = "right"
         </div>
         <div>
             <br><br>
-            <p align = "right">
+            <p align = "left">
                 <img src="[https://i.pinimg.com/originals/8f/92/e5/8f92e5f32fb3b5539743271532ef800a.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmVnieDEsoBF90PSEDkNM-PLu48nighySCPA&usqp=CAU)" width = "400px" align="right">
             </p>
                 <h2 align="center"> 📇 Knowledge ᕦ(ò_óˇ)ᕤ 📇 </h2>
