@@ -23,7 +23,7 @@
                 <b>Loves:</b> Football, Anime
             </li>
             <li>
-                <b>Gender:</b> Male 🏳️‍⚧️
+                <b>Gender:</b> Male 🏳️‍
             </li>
             <li>
                 <b>Hobbys:</b> Watching Anime, Web Development, Playing Football
