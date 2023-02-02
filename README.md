@@ -67,7 +67,6 @@
     </div>
     <h2 align="center">💖 Thanks for reading 💖</h2>
      <br/>
-     <br/>
     <div align="left">
     <br/>
       <img
