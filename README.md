@@ -67,8 +67,8 @@
       />
     </div>
     <h2 align="center">💖 Thanks for reading (ღ˘⌣˘ღ) 💖</h2>
+     <br/>
     <div align="left">
-      <br/>
       <img
         src="https://i.pinimg.com/originals/2c/74/63/2c7463852a8ad9fee2f3d9a15a5c07ff.gif"
         width="500px"
