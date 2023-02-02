@@ -26,8 +26,8 @@
           src="https://i.pinimg.com/originals/aa/41/e4/aa41e462b5238121bceb03fdd3705d00.gif"
           alt=""
           align="right"
-          width= "480px"
-          height= "600px"
+          width= "400px"
+          height= "500px"
         />
       </div>
     </div>
