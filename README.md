@@ -7,7 +7,7 @@
       />
     </div>
     <div>
-      <h2 align="center">🦊About me (~˘▾˘)~ 🦊</h2>
+      <h2 align="center">🦊 About me 🦊</h2>
       <br />
       <div width="50%">
         <ul align="left" font-size="40px">
@@ -32,7 +32,7 @@
         <br/>
       </div>
     </div>
-    <h2 align="center">📇 Knowledge ᕦ(ò_óˇ)ᕤ 📇</h2>
+    <h2 align="center">📇 Knowledge 📇</h2>
     <div align="center">
       <img
         src="https://cdn-icons-png.flaticon.com/128/174/174854.png"
@@ -56,7 +56,7 @@
       />
     </div>
     <br/>
-    <h2 align="center">📝 Contact me (>人<)𝓮 📝</h2>
+    <h2 align="center">📝 Contact me 📝</h2>
     <div align="center">
       <img
         src="https://i.pinimg.com/236x/5b/ee/52/5bee52fa1411082205d151a185650658.jpg"
@@ -65,9 +65,11 @@
         alt=""
       />
     </div>
-    <h2 align="center">💖 Thanks for reading (ღ˘⌣˘ღ) 💖</h2>
+    <h2 align="center">💖 Thanks for reading 💖</h2>
+     <br/>
      <br/>
     <div align="left">
+    <br/>
       <img
         src="https://i.pinimg.com/originals/2c/74/63/2c7463852a8ad9fee2f3d9a15a5c07ff.gif"
         width="500px"
