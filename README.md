@@ -72,7 +72,7 @@
     <br/>
       <img
         src="https://i.pinimg.com/originals/9e/ee/8b/9eee8b3dff69c37a5b21c8b690fea732.gif"
-        width="500px"
+        width="400px"
       />
     </div>
     <br />
