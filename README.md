@@ -8,7 +8,7 @@
     </div>
     <div>
       <h2 align="center">🦊About me (~˘▾˘)~ 🦊</h2>
-      <br /><br />
+      <br />
       <div width="50%">
         <ul align="left" font-size="40px">
           <li><b>Name:</b> Nguyen Luan</li>
@@ -20,6 +20,7 @@
           </li>
         </ul>
       </div>
+     <br />
       <div>
         <img
           src="https://i.pinimg.com/originals/aa/41/e4/aa41e462b5238121bceb03fdd3705d00.gif"
@@ -30,7 +31,7 @@
         />
       </div>
     </div>
-    <br />
+<!--     <br /> -->
     <h2 align="center">📇 Knowledge ᕦ(ò_óˇ)ᕤ 📇</h2>
     <div align="center">
       <img
