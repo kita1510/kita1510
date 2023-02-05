@@ -13,10 +13,10 @@
         <ul align="left" font-size="40px">
           <li><b>Name:</b> Nguyen Luan</li>
           <li><b>Age:</b> 20</li>
-          <li><b>Loves:</b> Football, Anime</li>
+          <li><b>Loves:</b> Football, Anime, Game</li>
           <li><b>Gender:</b> Male </li>
           <li>
-            <b>Hobbys:</b> Watching Anime 🐇, Web Development 💻, Playing Football ⚽ 
+            <b>Hobbys:</b> Watching Anime 🐇, Playing Game 💻, Playing Football ⚽ 
           </li>
         </ul>
       </div>
