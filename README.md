@@ -12,7 +12,6 @@
       <div width="50%">
         <ul align="left" font-size="40px">
           <li><b>Name:</b> Nguyen Luan</li>
-          <li><b>Age:</b> 20</li>
           <li><b>Loves:</b> Football, Anime, Game</li>
           <li><b>Gender:</b> Male </li>
           <li>
