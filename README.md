@@ -15,7 +15,7 @@
           <li><b>Loves:</b> Football, Anime, Game</li>
           <li><b>Gender:</b> Male </li>
           <li>
-            <b>Hobbys:</b> Watching Anime 🐇, Playing Game 💻, Playing Football ⚽ 
+            <b>Hobbys:</b> Watching Anime , Playing Game 💻, Playing Football ⚽ 
           </li>
         </ul>
       </div>
