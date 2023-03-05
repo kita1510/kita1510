@@ -35,22 +35,27 @@
     <div align="center">
       <img
         src="https://cdn-icons-png.flaticon.com/128/174/174854.png"
-        width="30px"
+        width="40px"
         alt=""
       />
       <img
         src="https://cdn-icons-png.flaticon.com/128/732/732190.png"
-        width="30px"
+        width="40px"
         alt=""
       />
       <img
         src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"
-        width="30px"
+        width="40px"
         alt=""
       />
       <img
-        src="https://cdn-icons-png.flaticon.com/128/753/753244.png"
-        width="30px"
+     src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"
+        width="40px"
+        alt=""
+      />
+           <img
+     src="https://camo.githubusercontent.com/c04208976fe84f5bfd2111ba446acf65ff373c962ed80bbf7aa028820a5bbd79/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d706c61696e2e737667"
+        width="40px"
         alt=""
       />
     </div>
