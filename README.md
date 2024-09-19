@@ -19,6 +19,9 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 </picture>
+
+
+  <p><strong>Frontend Developer</strong></p>
   <p>
   <img
     alt="React"
@@ -69,11 +72,14 @@
     src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff"
   />
 </p>
+<hr/>
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=kita1510&show_icons=true"
   align=""
 />
+
+<hr/>
 <p><strong>Can you find me?</strong></p>
 <p>
   <a href="https://github.com/kita1510" target="_blank"
