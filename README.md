@@ -1,81 +1,91 @@
  <body>
-    <h1 align="center">~ Welcome (づ｡◕‿‿◕｡)づ ~</h1>
-    <div align="center">
-      <img
-        src="https://i.pinimg.com/originals/53/ac/e4/53ace46312a2b5969179885db654be43.gif"
-        alt=""
-      />
-    </div>
-    <div>
-      <h2 align="center">🦊 About me 🦊</h2>
-      <br />
-      <div width="50%">
-        <ul align="left" font-size="40px">
-          <li><b>Name:</b> Nguyen Luan</li>
-          <li><b>Loves:</b> Football, Anime, Game</li>
-          <li><b>Gender:</b> Male </li>
-          <li>
-            <b>Hobbies:</b> Watching Anime , Playing Game 💻, Playing Football ⚽ 
-          </li>
-        </ul>
-      </div>
-     <br />
-      <div>
-        <img
-          src="https://i.pinimg.com/originals/aa/41/e4/aa41e462b5238121bceb03fdd3705d00.gif"
-          alt=""
-          align="right"
-          width= "400px"
-          height= "500px"
-        />
-        <br/>
-      </div>
-    </div>
-    <h2 align="center">📇 Knowledge 📇</h2>
-    <div align="center">
-      <img
-        src="https://cdn-icons-png.flaticon.com/128/174/174854.png"
-        width="40px"
-        alt=""
-      />
-      <img
-        src="https://cdn-icons-png.flaticon.com/128/732/732190.png"
-        width="40px"
-        alt=""
-      />
-      <img
-        src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"
-        width="40px"
-        alt=""
-      />
-      <img
-     src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"
-        width="40px"
-        alt=""
-      />
-<!--            <img
-     src="https://camo.githubusercontent.com/c04208976fe84f5bfd2111ba446acf65ff373c962ed80bbf7aa028820a5bbd79/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d706c61696e2e737667"
-        width="40px"
-        alt=""
-      /> -->
-    </div>
-    <br/>
-    <h2 align="center">📝 Contact me 📝</h2>
-    <div align="center">
-      <img
-        src="https://i.pinimg.com/236x/5b/ee/52/5bee52fa1411082205d151a185650658.jpg"
-        width="60px"
-        height="60px"
-        alt=""
-      />
-    </div>
-    <h2 align="center">💖 Thanks for reading 💖</h2>
-     <br/>
-    <div align="left">
-      <img
-        src="https://i.pinimg.com/originals/9e/ee/8b/9eee8b3dff69c37a5b21c8b690fea732.gif"
-        width="423px"
-      />
-    </div>
-    <br />
+<h1>
+  <b><i>Hello World</i></b>
+</h1>
+<h3>
+  <b>I'm Kita or also known as kita1510. I'm a self-taught web developer</b>
+</h3>
+<picture>
+  <source
+    srcset="
+      https://github-readme-stats.vercel.app/api?username=kita1510&show_icons=true&theme=dark
+    "
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="
+      https://github-readme-stats.vercel.app/api?username=kita1510&show_icons=true
+    "
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+</picture>
+  <p>
+  <img
+    alt="React"
+    src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
+  />
+  <img
+    alt="next.js"
+    src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"
+  />
+  <img
+    alt="TypeScript"
+    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"
+  />
+  <img
+    alt="Prettier"
+    src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"
+  />
+  <img
+    alt="TailwindCSS"
+    src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white"
+  />
+  <img
+    alt="Vite 2"
+    src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white"
+  />
+  <!-- <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" /> -->
+</p>
+<p><strong>Backend Developer (maybe)</strong></p>
+<p>
+  <img
+    alt="NodeJS"
+    src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white"
+  />
+  <img
+    alt="MongoDB"
+    src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
+  />
+  <img
+    alt="Express"
+    src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white"
+  />
+</p>
+
+<p><strong>Environment</strong></p>
+<p>
+  <img
+    alt="vscode"
+    src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff"
+  />
+</p>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=kita1510&show_icons=true"
+  align=""
+/>
+<p><strong>Can you find me?</strong></p>
+<p>
+  <a href="https://github.com/kita1510" target="_blank"
+    ><img
+      alt="Github"
+      src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
+  /></a>
+  <a href="https://x.com/xayah_miku" target="_blank"
+    ><img
+      alt="Twitter"
+      src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+   </a>
+</p>
+
   </body>
