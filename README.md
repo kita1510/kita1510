@@ -74,10 +74,23 @@
 </p>
 <hr/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=kita1510&show_icons=true"
+<p>
+ <img
+  src="https://github-readme-stats.vercel.app/api?username=kita1510&show_icons=true&theme=dark&hide_border=false"
   align=""
 />
+<!--  <img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=kita1510&theme=dark&hide_border=false"
+  align=""
+/> -->
+
+</p>
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kita1510&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+  align=""
+/>
+
+
 
 <hr/>
 <p><strong>Can you find me?</strong></p>
@@ -86,12 +99,18 @@
     ><img
       alt="Github"
       src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
-  /></a>
+  />
+  </a>
   <a href="https://x.com/xayah_miku" target="_blank"
     ><img
       alt="Twitter"
       src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
    </a>
-</p>
 
+
+</p>
+<hr/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=kita1510&label=Profile%20Views&color=4&icon=6&pretty=false" />
+</a>
   </body>
