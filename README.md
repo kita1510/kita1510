@@ -3,7 +3,7 @@
   <b><i>Hello World</i></b>
 </h1>
 <h3>
-  <b>I'm Kita or also known as kita1510. I'm a self-taught web developer</b>
+  <b>I'm Kita, who wanna be a web developer </b>
 </h3>
 <picture>
   <source
