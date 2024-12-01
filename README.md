@@ -1,9 +1,9 @@
  <body>
 <h1>
-  <b><i>Hello World - こんにちは世界</i></b>
+  <b><i>Hello World - こんにちは世界❕</i></b>
 </h1>
 <h3>
-  <b>I'm きた, who wanna be a web developer </b>
+  <b>I'm 喜多郁代, wanna be a web developer </b>
 </h3>
 <picture>
   <source
