@@ -3,7 +3,7 @@
   <b><i>Hello World - こんにちは世界❕</i></b>
 </h1>
 <h3>
-  <b>I'm 喜多郁代, wanna be a web developer </b>
+  <b>I'm Luan, I want to be a web developer </b>
 </h3>
 <picture>
   <source
